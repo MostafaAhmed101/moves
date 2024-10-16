@@ -18,11 +18,11 @@ ul {
 div {
     margin: auto;
     margin-top: 100px;
-    width: 520px;
-    height: 520px;
+    width: 700px;
+    height: 700px;
     background-color: rgb(15, 15, 15);
     border-radius: 4%;
-    font-size: large;
+    font-size: x-large;
     color: white;
     text-align: center;
     padding: 20px;
@@ -30,4 +30,12 @@ div {
 
 footer{
     color: white;
+    padding-top: 100px ;
+}
+#oppenheimer-img {
+    width: 200px;
+} 
+img {
+    width: 200px;
+
 }
